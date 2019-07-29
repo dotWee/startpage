@@ -70,7 +70,6 @@ just make sure it follows this scheme:
     {
         "name": "social",
         "links": [
-            ["facebook", "https://www.facebook.com"],
             ["twitter", "https://www.twitter"],
             ["xing", "https://www.xing.com"],
             ["linkedin", "https://www.linkedin.com"]
