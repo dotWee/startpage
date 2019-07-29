@@ -1,0 +1,62 @@
+[
+    {
+        "name": "video",
+        "links": [
+            ["netflix", "https://netflix.com"],
+            ["vimeo", "https://vimeo.com"],
+            ["youtube", "https://youtube.com/"]
+        ]
+    },
+    {
+        "name": "audio",
+        "links": [
+            ["soundcloud", "https://soundcloud.com/"],
+            ["lastfm", "https://www.last.fm/user/"],
+            ["bandcamp", "https://bandcamp.com/"],
+            ["musicbrainz", "https://musicbrainz.org/"]
+        ]
+    },
+    {
+        "name": "saved",
+        "links": [
+            ["pocket", "https://getpocket.com/a/queue/"],
+            ["wallabag", "https://wallabag.org/en"],
+            ["evernote", "https://evernote.com/"]
+        ]
+    },
+    {
+        "name": "news",
+        "links":[
+            ["heise", "https://www.heise.de/newsticker/"],
+            ["fefe", "https://blog.fefe.de"],
+            ["reddit", "https://www.reddit.com"],
+            ["golem", "https://www.golem.de"]
+        ]
+    },
+    {
+        "name": "social",
+        "links": [
+            ["twitter", "https://www.twitter/"],
+            ["xing", "https://www.xing.com/"],
+            ["linkedin", "https://www.linkedin.com/"],
+            ["reddit", "https://www.reddit.com"]
+        ]
+    },
+    {
+        "name": "docs",
+        "links": [
+            ["swift", "http://swift.org"],
+            ["stackoverflow", "https://stackoverflow.com"],
+            ["devhints", "https://devhints.io"],
+            ["stackex", "https://stackexchange.com"]
+        ]
+    },
+    {
+        "name": "git",
+        "links": [
+            ["github", "https://github.com"],
+            ["gitlab", "https://gitlab.com"],
+            ["bitbucket", "https://bitbucket.org"]
+        ]
+    }
+]
