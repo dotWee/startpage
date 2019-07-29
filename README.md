@@ -1,5 +1,9 @@
 # startpage
 
+_a very ugly, distrating and irritating startpage for your web surfer. just bad enough to make you surf the interweb as soon ass possible._
+
+![deadly_screenshot.png](./_art/deadly_screenshot.png)
+
 ## setup
 
 1. install a full [ruby development environment](https://jekyllrb.com/docs/installation/)
