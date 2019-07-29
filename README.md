@@ -1,8 +1,17 @@
 # startpage
 
-_a very ugly, distrating and irritating startpage for your web surfer. just bad enough to make you surf the interweb as soon ass possible._
+_a very ugly, distracting* and irritating startpage for your web surfer**_
+
+
+<sub>* just bad enough to make you surf the interweb as soon ass possible</sub>
+</br>
+<sub>** your web surfer on all platforms, it is responsive!</sub>
 
 ![deadly_screenshot.png](./_art/deadly_screenshot.png)
+
+> **anecdote**: made within a few hour to annoy some people. i'll probably never touch this code again.
+
+> **recruters**: please don't look
 
 ## setup
 
