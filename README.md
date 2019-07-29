@@ -87,3 +87,9 @@ just make sure it follows this scheme:
     }
 ]
 ```
+
+## license
+
+copyright (c) 2019 lukas 'dotwee' wolfsteiner <lukas@wolfsteiner.media>
+
+licensed under the [_do what the fuck you want to_](/LICENSE) public license
