@@ -1,4 +1,4 @@
-# startpage
+# [startpage](https://dotwee.github.io/startpage/)
 
 _a very ugly, distracting* and irritating startpage for your web surfer**_
 
