@@ -2,9 +2,19 @@
 @media only screen and (max-width: 600px) {
     :root {
         --size-text-category: var(--size-grid-x-1-5);
+        --size-text-title: 4.5em;
 
         --size-text-link-start: 1.7em;
         --size-text-link-end: var(--size-grid-x-2);
+    }
+
+    .title {
+        margin-top: 0;
+        margin-bottom: var(--size-grid-x-0-5);
+    }
+
+    .title br {
+        display: inline;
     }
 
     .categories {

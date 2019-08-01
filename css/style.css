@@ -31,6 +31,10 @@ body {
         var(--color-shadow); 
 }
 
+.title br {
+    display: none;
+}
+
 .header {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -67,11 +71,6 @@ body {
 .categories {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-
-    /* 
-    grid-template-rows: repeat(3, 1fr);
-    */
-
     grid-column-gap: var(--size-grid-x-1);
     grid-row-gap: var(--size-grid-x-1);
 }
