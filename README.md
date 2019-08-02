@@ -3,9 +3,9 @@
 _a very ugly, distracting* and irritating startpage for your web surfer**_
 
 
-<sub>* just bad enough to make you surf the interweb as soon ass possible</sub>
+<sub>* just bad enough to make you surf the interweb as soon as possible</sub>
 </br>
-<sub>** your web surfer on all platforms, it is responsive!</sub>
+<sub>** your web surfer on all platforms, it's responsive!</sub>
 
 ![deadly_screenshot.png](./_art/deadly_screenshot.png)
 
