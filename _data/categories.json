@@ -58,5 +58,23 @@
             ["gitlab", "https://gitlab.com"],
             ["bitbucket", "https://bitbucket.org"]
         ]
+    },
+    {
+        "name": "uni",
+        "links": [
+            ["home", "https://www.oth-regensburg.de"],
+            ["qis", "https://qis.oth-regensburg.de"],
+            ["hisinone", "https://hisinone-studium.oth-regensburg.de"],
+            ["exams", "https://java.fh-regensburg.de"]
+        ]
+    },
+    {
+        "name": "news",
+        "links": [
+            ["mittelbayer", "https://www.mittelbayerische.de"],
+            ["nm-aktuell", "https://www.neumarktaktuell.de"],
+            ["nm-online", "http://www.neumarktonline.de"],
+            ["nordbayern", "https://www.nordbayern.de"]
+        ]
     }
 ]
