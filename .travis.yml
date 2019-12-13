@@ -8,7 +8,7 @@ script: ./scripts/cibuild
 
 branches:
   only:
-  - travis       # test the travis branch
+  - master
 
 env:
   global:
@@ -34,4 +34,4 @@ deploy:
   keep_history: true
   local_dir: ./_site
   on:
-    branch: travis
+    branch: master
