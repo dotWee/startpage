@@ -40,5 +40,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - scripts/
+  - docker-compose.yml
+  - LICENSE
 #  - Gemfile.lock
 #  - node_modules
