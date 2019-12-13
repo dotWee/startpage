@@ -16,7 +16,7 @@ _a very ugly, distracting* and irritating startpage for your web surfer**_
 
 > **recruters**: please don't look
 
-## setup
+## [setup](#setup)
 
 1. install a full [ruby development environment](https://jekyllrb.com/docs/installation/)
 2. install [jekyll](https://jekyllrb.com/) and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems):
@@ -31,7 +31,7 @@ _a very ugly, distracting* and irritating startpage for your web surfer**_
     $ git clone https://github.com/dotWee/startpage.git startpage && cd startpage
     ```
 
-## usage
+## [usage](#usage)
 
 ### run site locally using [jekyll](https://jekyllrb.com/)
 
@@ -91,7 +91,7 @@ $ bundle update
 $ bundle exec jekyll clean
 ```
 
-## customize
+## [customize](#customize)
 
 set your own categories with links by changing the [categories.json](./_data/categories.json) inside the [__data_](./_data)-folder.
 
@@ -119,7 +119,7 @@ just make sure it follows this scheme:
 ]
 ```
 
-## license
+## [license](#license)
 
 copyright (c) 2019 lukas 'dotwee' wolfsteiner <lukas@wolfsteiner.media>
 
