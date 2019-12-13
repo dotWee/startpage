@@ -16,8 +16,6 @@
 title: startpage
 email: lukas@wolfsteiner.media
 description: the very ugly, distracting and irritating startpage for your web surfer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dnkncht
 github_username:  dotwee
 
@@ -31,11 +29,18 @@ markdown: kramdown
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - README.md
+  - deploy.sh
+  - status_running.lock
+  - status_waiting.lock
   - Gemfile
   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - scripts/
+  - docker-compose.yml
+  - LICENSE
+#  - Gemfile.lock
+#  - node_modules

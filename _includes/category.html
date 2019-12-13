@@ -4,7 +4,7 @@
 <div class="category-links">
     {% for link in category.links %}
     <div class="category-link">
-        <a href="{{ link[1] }}">{{ link[0] }}</a>
+        <a href="{{ link[1] }}" data-proofer-ignore>{{ link[0] }}</a>
     </div>
     {% endfor %}
 </div>
