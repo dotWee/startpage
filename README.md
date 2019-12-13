@@ -1,5 +1,8 @@
 # [startpage](https://dotwee.github.io/startpage/)
 
+[![GitHub License](https://img.shields.io/github/license/dotWee/startpage)](https://github.com/dotWee/startpage/blob/master/LICENSE)
+[![Build Status](https://travis-ci.com/dotWee/startpage.svg?branch=master)](https://travis-ci.com/dotWee/startpage)
+
 _a very ugly, distracting* and irritating startpage for your web surfer**_
 
 
