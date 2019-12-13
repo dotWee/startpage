@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://dotwee.github.io/startpage/sitemap.xml
