@@ -3,7 +3,7 @@
 _a very ugly, distracting* and irritating startpage for your web surfer**_
 
 
-<sub>* just bad enough to make you surf the interweb as soon as possible</sub>
+<sub>* bad enough to procrastinate as soon as possible</sub>
 </br>
 <sub>** your web surfer on all platforms, it's responsive!</sub>
 
