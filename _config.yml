@@ -14,16 +14,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: startpage
-email: lukas@wolfsteiner.media
 description: the very ugly, distracting and irritating startpage for your web surfer
-twitter_username: dnkncht
-github_username:  dotwee
+
+author: 
+  name: Lukas Wolfsteiner
+  twitter: dnkncht
+  github: dotwee
+
+twitter:
+  username: dnkncht
+  card: summary
+
+social:
+  type: Person
+  name: Lukas Wolfsteiner
+  links:
+    - https://lukas.wolfsteiner.media
+    - https://twitter.com/dnkncht
+    - https://www.linkedin.com/in/lukas-wolfsteiner
+    - https://www.xing.com/profile/Lukas_Wolfsteiner2/cv
+    - https://github.com/dotwee
+    - https://keybase.io/dotwee
 
 # Build settings
 markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
