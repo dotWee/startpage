@@ -76,5 +76,14 @@
             ["nm-online", "http://www.neumarktonline.de"],
             ["nordbayern", "https://www.nordbayern.de"]
         ]
+    },
+    {
+        "name": "about",
+        "links": [
+            ["copyright", "https://lukas.wolfsteiner.media"],
+            ["travis-ci", "https://travis-ci.com/dotWee/startpage"],
+            ["©2019-me", "https://lukas.wolfsteiner.media"],
+            ["sourcecode", "https://github.com/dotWee/startpage"]
+        ]
     }
 ]
