@@ -16,8 +16,6 @@
 title: startpage
 email: lukas@wolfsteiner.media
 description: the very ugly, distracting and irritating startpage for your web surfer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dnkncht
 github_username:  dotwee
 
