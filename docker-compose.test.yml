@@ -1,0 +1,3 @@
+sut:
+  image: jekyll/jekyll
+  command: jekyll build
