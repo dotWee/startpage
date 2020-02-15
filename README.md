@@ -10,7 +10,7 @@ _a very ugly, distracting* and irritating startpage for your web surfer**_
 </br>
 <sub>** your web surfer on all platforms, it's responsive!</sub>
 
-![deadly_screenshot.png](./_art/deadly_screenshot.png)
+![deadly_screenshot.png](https://github.com/dotWee/startpage/raw/master/_art/deadly_screenshot.png)
 
 > **anecdote**: made within a few hour to annoy some people. i'll probably never touch this code again.
 
