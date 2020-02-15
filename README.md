@@ -51,6 +51,16 @@ _a very ugly, distracting* and irritating startpage for your web surfer**_
 
 ### run site using [docker](https://www.docker.com/)
 
+either by pulling a prebuilt docker image:
+
+```bash
+$ docker run --rm \
+    -p 80:80 \
+    -it dotwee/startpage
+```
+
+or using the locally cloned source code:
+
 ```bash
 $ docker run --rm \
     -p 4000:4000 \
