@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "=> Build the site using jekyll"
-mkdir -p _site
-mkdir -p .jekyll-cache
-docker run --volume=`pwd`:/srv/jekyll jekyll/jekyll jekyll build --trace
