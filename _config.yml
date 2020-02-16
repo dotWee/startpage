@@ -59,6 +59,9 @@ exclude:
   - vendor/ruby/
   - scripts/
   - docker-compose.yml
+  - Dockerfile
+  - docker-compose.test.yml
+  - hooks/
   - LICENSE
 #  - Gemfile.lock
 #  - node_modules
