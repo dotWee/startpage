@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   startpage:
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:4.1.1
     command: jekyll serve
     volumes:
       - $PWD:/srv/jekyll
